@@ -13,6 +13,5 @@
 
 <img src="https://user-images.githubusercontent.com/100992862/226627989-453f6193-7b1c-4263-87f2-df9ecdec7bf7.jpg" width="700"/>
 
-<img src="(https://user-images.githubusercontent.com/100992862/226633346-d29ed12a-bf90-404b-9980-1d2bca9da7e7.jpg)" width="700"/>
-
+<img src="https://user-images.githubusercontent.com/100992862/226633687-666c628f-9606-44ea-acc0-a3a4e4ee6999.jpg" width="700"/>
 
