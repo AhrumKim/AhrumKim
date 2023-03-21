@@ -12,7 +12,7 @@
 
 
 <img src="https://user-images.githubusercontent.com/100992862/226627989-453f6193-7b1c-4263-87f2-df9ecdec7bf7.jpg" width="700"/>
-![화면 캡처 2023-03-21 225943](https://user-images.githubusercontent.com/100992862/226634381-09aeac7c-b172-4231-bf4d-0e3dcd21b559.jpg)
+<img src="https://user-images.githubusercontent.com/100992862/226634381-09aeac7c-b172-4231-bf4d-0e3dcd21b559.jpg" width="700"/>
 
 
 
