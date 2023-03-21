@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디&layout=compact)](https://github.com/깃허브아이디/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhrumKim&layout=compact)](https://github.com/AhrumKim/github-readme-stats)
 
 <img src="https://img.shields.io/badge/스택이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/>
 //Java
