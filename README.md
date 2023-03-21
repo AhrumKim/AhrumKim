@@ -11,5 +11,10 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 
 
-<img src="https://user-images.githubusercontent.com/100992862/226627989-453f6193-7b1c-4263-87f2-df9ecdec7bf7.jpg" width="600"/>
+<img src="https://user-images.githubusercontent.com/100992862/226627989-453f6193-7b1c-4263-87f2-df9ecdec7bf7.jpg" width="700"/>
+
+
+<img src="=https://user-images.githubusercontent.com/100992862/226630381-449ca674-5e15-4099-9d20-32a9dfe4e9bd.jpg" width="700"/>
+
+
 
