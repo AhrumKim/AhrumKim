@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahrum&show_icons=true&theme=buefy)<img src="https://user-images.githubusercontent.com/100992862/226615069-76620628-ad9a-4b6a-9535-a9ff05466150.jpg" width="180" height="200"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahrum&show_icons=true&theme=buefy)
+<img src="https://user-images.githubusercontent.com/100992862/226615069-76620628-ad9a-4b6a-9535-a9ff05466150.jpg" width="180" height="200"/>
 
 
 # :muscle: Skills
