@@ -1,6 +1,7 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahrum&show_icons=true&theme=buefy)
-<img src="https://user-images.githubusercontent.com/100992862/226615069-76620628-ad9a-4b6a-9535-a9ff05466150.jpg" width="250" height="200"/>
+<img src="https://user-images.githubusercontent.com/100992862/226619032-77e0d5a3-abe0-486e-b7b5-b35b70582ffb.jpg" width="3000" height="200"/>
+
 
 
 # :muscle: Skills
