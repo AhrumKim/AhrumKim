@@ -12,7 +12,7 @@
 
 
 # 캠핑장 사이트(어디로 갈래?)
-<img src="https://user-images.githubusercontent.com/100992862/226627989-453f6193-7b1c-4263-87f2-df9ecdec7bf7.jpg" width="500"><img src="https://user-images.githubusercontent.com/100992862/226634381-09aeac7c-b172-4231-bf4d-0e3dcd21b559.jpg" width="500"/>
+<img src="https://user-images.githubusercontent.com/100992862/226627989-453f6193-7b1c-4263-87f2-df9ecdec7bf7.jpg" width="400"><img src="https://user-images.githubusercontent.com/100992862/226634381-09aeac7c-b172-4231-bf4d-0e3dcd21b559.jpg" width="400"/>
 
 # 온습도 미세먼지 모니터링 시스템
 <img src="https://user-images.githubusercontent.com/100992862/226633687-666c628f-9606-44ea-acc0-a3a4e4ee6999.jpg" width="500"><img src="https://user-images.githubusercontent.com/100992862/226636024-ac1a6a22-8808-44d9-a9e2-1018eb706c02.jpg" width="500"/>
