@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://img.shields.io/badge/스택이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/>
 //Java
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 //MysQL
