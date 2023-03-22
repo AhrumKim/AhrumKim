@@ -21,7 +21,7 @@
 
 # 온습도 미세먼지 모니터링 시스템
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=fff)](https://developer.mozilla.org/ko/)
-[![Arduino](https://img.shields.io/badge/Arduino-00979DF?style=flat-square&logo=Arduinot&logoColor=fff)](https://developer.mozilla.org/ko/)
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduinot&logoColor=fff)](https://developer.mozilla.org/ko/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-FF9E0F?style=flat-square&logo=JavaScript&logoColor=fff)](https://developer.mozilla.org/ko/)
 [![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=fff)](https://code.visualstudio.com/)
 [![SublimeText](https://img.shields.io/badge/SublimeText-FF9800?style=flat-square&logo=Sublime-Text&logoColor=fff)](https://www.eclipse.org/)
