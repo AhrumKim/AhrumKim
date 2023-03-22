@@ -23,7 +23,7 @@
 [![Arduino](https://img.shields.io/badge/Arduino-00979DF?style=flat-square&logo=Arduinot&logoColor=fff)](https://developer.mozilla.org/ko/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-FF9E0F?style=flat-square&logo=JavaScript&logoColor=fff)](https://developer.mozilla.org/ko/)
 [![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=fff)](https://code.visualstudio.com/)
-[![Sublime Text](https://img.shields.io/badge/Sublime Text-FF9800style=flat-square&logo=Sublime Text&logoColor=fff)](https://www.eclipse.org/)
+[![SublimeText](https://img.shields.io/badge/SublimeText-FF9800style=flat-square&logo=SublimeText&logoColor=fff)](https://www.eclipse.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)](https://www.oracle.com/kr/index.html)
 
 
