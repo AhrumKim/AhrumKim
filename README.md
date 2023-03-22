@@ -23,7 +23,7 @@
 [![Arduino](https://img.shields.io/badge/Arduino-00979DF?style=flat-square&logo=Arduinot&logoColor=fff)](https://developer.mozilla.org/ko/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-FF9E0F?style=flat-square&logo=JavaScript&logoColor=fff)](https://developer.mozilla.org/ko/)
 [![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=fff)](https://code.visualstudio.com/)
-[![Sublime Text](https://img.shields.io/badge/Sublime Text-FF9800?style=flat-square&logo=Sublime Text&logoColor=fff)](https://www.eclipse.org/)
+[![Sublime-Text](https://img.shields.io/badge/Sublime-Text-FF9800?style=flat-square&logo=Sublime-Text&logoColor=fff)](https://www.eclipse.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)](https://www.oracle.com/kr/index.html)
 
 
@@ -31,5 +31,4 @@
 <img src="https://user-images.githubusercontent.com/100992862/226636125-544695d1-1ddd-4bf8-a7f2-32ca840ad203.jpg" width="400"> <img src="https://user-images.githubusercontent.com/100992862/226636250-e8400006-642a-4a97-a011-b191c996395f.jpg" width="400" > 
 
 <img src="https://user-images.githubusercontent.com/100992862/226636314-89b9b757-036f-49f8-91f4-d897146b1f83.jpg" width="400" > <img src="https://user-images.githubusercontent.com/100992862/226636434-460891d0-7719-4aa6-a51d-69692503526d.jpg" width="400">
-//
 
