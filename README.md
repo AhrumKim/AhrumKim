@@ -7,7 +7,8 @@
 [![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=fff)](https://code.visualstudio.com/)
 [![EclipseIDE](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=EclipseIDE&logoColor=fff)](https://www.eclipse.org/)
 [![GIT](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=fff)](https://git-scm.com/)
-[![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=fff)](https://www.oracle.com/kr/index.html)<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
+[![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=fff)](https://www.oracle.com/kr/index.html)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)](https://www.oracle.com/kr/index.html)<img 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhrumKim&layout=compact)
 
