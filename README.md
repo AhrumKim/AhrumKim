@@ -18,9 +18,9 @@
 # 캠핑장 사이트(어디로 갈래?)
 [![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=XAMPP&logoColor=fff)](https://code.visualstudio.com/)
 [![SublimeText](https://img.shields.io/badge/SublimeText-FF9800?style=flat-square&logo=Sublime-Text&logoColor=fff)](https://www.eclipse.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-FF9E0F?style=flat-square&logo=JavaScript&logoColor=fff)](https://developer.mozilla.org/ko/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=fff)](https://developer.mozilla.org/ko/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=fff)](https://www.oracle.com/kr/index.html)
+[![JavaScript](https://img.shields.io/badge/JavaScript-FF9E0F?style=flat-square&logo=JavaScript&logoColor=fff)](https://developer.mozilla.org/ko/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)](https://www.oracle.com/kr/index.html)
 
 <img src="https://user-images.githubusercontent.com/100992862/226627989-453f6193-7b1c-4263-87f2-df9ecdec7bf7.jpg" width="400"><img src="https://user-images.githubusercontent.com/100992862/226634381-09aeac7c-b172-4231-bf4d-0e3dcd21b559.jpg" width="400"/>
