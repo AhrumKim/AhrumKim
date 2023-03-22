@@ -19,10 +19,12 @@
 <img src="https://user-images.githubusercontent.com/100992862/226627989-453f6193-7b1c-4263-87f2-df9ecdec7bf7.jpg" width="400"><img src="https://user-images.githubusercontent.com/100992862/226634381-09aeac7c-b172-4231-bf4d-0e3dcd21b559.jpg" width="400"/>
 
 # 온습도 미세먼지 모니터링 시스템
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=fff)](https://developer.mozilla.org/ko/)
+[![Arduino](https://img.shields.io/badge/Arduino-00979DF?style=flat-square&logo=Arduinot&logoColor=fff)](https://developer.mozilla.org/ko/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-FF9E0F?style=flat-square&logo=JavaScript&logoColor=fff)](https://developer.mozilla.org/ko/)
 [![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=fff)](https://code.visualstudio.com/)
-[![EclipseIDE](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=EclipseIDE&logoColor=fff)](https://www.eclipse.org/)
-[![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=fff)](https://www.oracle.com/kr/index.html)
+[![Sublime Text](https://img.shields.io/badge/Sublime Text-FF9800style=flat-square&logo=Sublime Text&logoColor=fff)](https://www.eclipse.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)](https://www.oracle.com/kr/index.html)
 
 
 <img src="https://user-images.githubusercontent.com/100992862/226633687-666c628f-9606-44ea-acc0-a3a4e4ee6999.jpg" width="400"><img src="https://user-images.githubusercontent.com/100992862/226636024-ac1a6a22-8808-44d9-a9e2-1018eb706c02.jpg" width="400"/>
