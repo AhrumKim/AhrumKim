@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Ahrum's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhrumKim&show_icons=true&theme=buefy)<img src="https://user-images.githubusercontent.com/100992862/226620785-d9cd53b2-3ff2-4deb-878c-cf872eef84c1.jpg" width="200"/>
+![Ahrum's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhrumKim&show_icons=true&theme=buefy)
 
 # :muscle: Skills
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=fff)](https://www.oracle.com/kr/java/)
