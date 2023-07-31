@@ -7,10 +7,10 @@
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=fff)](https://developer.mozilla.org/ko/)
 [![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=fff)](https://code.visualstudio.com/)
 [![EclipseIDE](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=EclipseIDE&logoColor=fff)](https://www.eclipse.org/)
-[![GIT](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=fff)](https://git-scm.com/)
-[![GITHUB](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=fff)](https://git-scm.com/)
 [![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=fff)](https://www.oracle.com/kr/index.html)
 [![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=XAMPP&logoColor=fff)](https://code.visualstudio.com/)
 [![SublimeText](https://img.shields.io/badge/SublimeText-FF9800?style=flat-square&logo=Sublime-Text&logoColor=fff)](https://www.eclipse.org/)
+[![GIT](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=fff)](https://git-scm.com/)
+[![GITHUB](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=fff)](https://git-scm.com/)
 
 
