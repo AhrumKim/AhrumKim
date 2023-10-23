@@ -1,11 +1,7 @@
 ### Hi there 👋
 
 # :muscle: Skills
-#A8B9CC
-#00599C
-#3776AB
-#276DC3
-#00878F
+
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=fff)](https://www.oracle.com/kr/java/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-FF9E0F?style=flat-square&logo=JavaScript&logoColor=fff)](https://developer.mozilla.org/ko/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=fff)](https://www.oracle.com/kr/index.html)
