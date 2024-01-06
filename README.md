@@ -4,8 +4,8 @@
 
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=fff)](https://www.oracle.com/kr/java/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-FF9E0F?style=flat-square&logo=JavaScript&logoColor=fff)](https://developer.mozilla.org/ko/)
-[![C](https://img.shields.io/badge/C-F050?style=flat-square&logo=C&logoColor=fff)](https://developer.mozilla.org/ko/)
-[![C++](https://img.shields.io/badge/C++-777BB?style=flat-square&logo=C++&logoColor=f)](https://www.oracle.com/kr/C++/)
+[![C](https://img.shields.io/badge/C-F0032?style=flat-square&logo=C&logoColor=fff)](https://developer.mozilla.org/ko/)
+[![C++](https://img.shields.io/badge/C++-F05032?style==flat-square&logo=C++&logoColor=f)](https://www.oracle.com/kr/C++/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=fff)](https://www.oracle.com/kr/index.html)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=fff)](https://developer.mozilla.org/ko/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)](https://www.oracle.com/kr/index.html)
