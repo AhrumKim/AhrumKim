@@ -16,5 +16,5 @@
 [![SublimeText](https://img.shields.io/badge/SublimeText-FF9800?style=flat-square&logo=Sublime-Text&logoColor=fff)](https://www.eclipse.org/)
 [![GIT](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=fff)](https://git-scm.com/)
 [![GITHUB](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=fff)](https://git-scm.com/)
-
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/)
 
