@@ -5,7 +5,7 @@
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=fff)](https://www.oracle.com/kr/java/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-FF9E0F?style=flat-square&logo=JavaScript&logoColor=fff)](https://developer.mozilla.org/ko/)
 [![C](https://img.shields.io/badge/C-F05?style=flat-square&logo=C&logoColor=fff)](https://developer.mozilla.org/ko/)
-[![C++](https://img.shields.io/badge/C++-F05?style==flat-square&logo=C++&logoColor=fff)](https://www.oracle.com/ko/)
+[![C++](https://img.shields.io/badge/C++-F05?style=flat-square&logo=C++&logoColor=fff)](https://www.oracle.com/ko/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=fff)](https://www.oracle.com/kr/index.html)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=fff)](https://www.w3.org/TR/CSS/)
